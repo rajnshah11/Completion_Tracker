@@ -1,4 +1,4 @@
-# Training Completion Tracker
+# Completion Tracker
 
 This application is designed to manage and analyze training completion data. It reads training data from a JSON file, processes it to extract insights such as counts of completed trainings, participants in a fiscal year, and expired or soon-expiring trainings, and then writes the results to output JSON files.
 
@@ -45,7 +45,7 @@ This application is designed to manage and analyze training completion data. It 
 # How to Run the Code
 ## Clone the Repository
 ```bash
-   git clone
+   git clone https://github.com/rajnshah11/Completion_Tracker.git
    cd Completion_Tracker
 ```
 
